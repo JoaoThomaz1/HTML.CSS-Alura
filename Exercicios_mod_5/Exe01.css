@@ -1,22 +1,29 @@
-/*no exercicio 6 foi pedido para estilizar as tags "<a>" para ficar diferente do fundo*/
+
+/* foi pedido para utilizar algum site de cores para deixar mais armoniada as cores */
 
 header {
-   background-color: rgb(90, 90, 90);
+   background-color: #75A9A3;
+   color: white;
+
 }
 
 body {
-   background-color: rgb(70, 70, 70);
+   background-color: #2F4B48;
    text-align: center; 
-   color: white;
+   color: lightslategrey;
 }
 
 footer {
-   background-color: gray;
+   background-color: #182624;
    color: black;
 }
 
 ul {
    text-align: left;
+}
+
+strong {
+   color: lightslategrey   ;
 }
 
 p {
@@ -35,12 +42,16 @@ a {
    text-align: center;
    text-decoration: none;
    color: black;
-   background-color: #007bff;
+   background-color: #2F4C47;
    border-radius: 10px;
    border: 1px solid black;
    font: arial;
    font-weight: bold;
 
+}
+
+h4 {
+   font-weight: bold;
 }
 
 #footer.p {

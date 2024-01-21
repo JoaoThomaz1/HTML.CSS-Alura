@@ -1,0 +1,53 @@
+body {
+   background-color: indigo;
+   text-align: center; 
+   color: white;
+}
+
+ul {
+   text-align: left;
+}
+
+p {
+   font-size: medium;
+}
+
+#foto_joao {
+   width: 200px;
+}
+
+#insta {
+
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   color: #fff;
+   background-color: #007bff;
+   border-radius: 10px;
+   border: 1px solid black;
+
+}
+
+#linkdin {
+
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   color: #fff;
+   background-color: #007bff;
+   border-radius: 10px;
+   border: 1px solid black;
+
+}
+
+#git {
+
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   color: #fff;
+   background-color: #007bff;
+   border-radius: 10px;
+   border: 1px solid black;
+
+}

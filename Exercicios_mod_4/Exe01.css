@@ -1,0 +1,20 @@
+
+/* foi pedido para criar um aquivo CSS no exercicio 1*/
+
+body {
+   background-color: rgb(2, 59, 2);
+   text-align: center; 
+   color: antiquewhite;
+}
+
+ul {
+   text-align: left;
+}
+
+p {
+   font-size: medium;
+}
+
+#foto_joao {
+   width: 200px;
+}

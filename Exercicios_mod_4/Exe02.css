@@ -1,0 +1,17 @@
+body {
+   background-color: indigo; /* foi pedido para mudar para a cor "indigo"*/
+   text-align: center; 
+   color: white;/* foi pedido para mudar para a cor "white"*/
+}
+
+ul {
+   text-align: left;
+}
+
+p {
+   font-size: medium;
+}
+
+#foto_joao {
+   width: 200px;
+}
